@@ -241,7 +241,7 @@ See [AUTHORS](AUTHORS) for complete credits.
 ## Links
 
 - Original Disk Inventory X: http://www.derlien.com/
-- Original Source (Objective-C): [Parent directory](..)
+- Original Source (Objective-C): https://gitlab.com/tderlien/disk-inventory-x
 - GPL-3.0 License: https://www.gnu.org/licenses/gpl-3.0.html
 
 ## Frequently Asked Questions
