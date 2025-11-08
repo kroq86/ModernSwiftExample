@@ -1,0 +1,38 @@
+# Authors and Contributors
+
+## Original Disk Inventory X (Objective-C)
+
+**Engineering:**
+- Tjark Derlien
+  - Website: http://www.derlien.com
+  - Original creator and primary developer
+
+**Testing:**
+- Daniel Girod
+- Florian de la Motte Rouge
+
+**Translations:**
+- Antoine Desir (French) - Mac-Vidéo forums (http://mac-video.desir.fr)
+- Oscar Ferrer (Spanish)
+- Tjark Derlien (German)
+
+**Documentation:**
+- Tjark Derlien
+
+## Modern Swift Implementation (2025)
+
+**Swift Modernization:**
+- Ported core algorithms from Objective-C to Swift 5.9
+- Implemented async/await concurrency model
+- Created SwiftUI user interface
+- Established modern Swift package structure
+
+**Contributors:**
+- (Add your name here when contributing)
+
+---
+
+This project is a derivative work of the original Disk Inventory X,
+licensed under GPL-3.0. All contributors agree to license their
+contributions under the same GPL-3.0 license.
+
